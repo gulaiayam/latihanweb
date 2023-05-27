@@ -11,6 +11,7 @@
 <img src="" alt="">
     <p>
         <a href="http://localhost:8000/welcome">masuk</a>
+        lamo
     </p>
 </body>
 </html>
